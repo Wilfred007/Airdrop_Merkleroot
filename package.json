@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.10"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "github:OpenZeppelin/openzeppelin-contracts"
+  }
+}
