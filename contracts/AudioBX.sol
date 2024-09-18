@@ -2,7 +2,7 @@
 pragma solidity ^0.8.26;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-contract MindToken is ERC20("MindToken", "MND") {
+contract AudioBox is ERC20("AudioBox", "ABXT") {
     address public immutable OWNER;
     constructor() {
         OWNER = msg.sender;
